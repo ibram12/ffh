@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "224676894553",
+    "project_id": "mint-i",
+    "storage_bucket": "mint-i.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224676894553:android:9623cffba3f2df65569e48",
+        "android_client_info": {
+          "package_name": "com.example.e3ada_4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCidJ5GMrCnvgRq9n_WNcc2YK5X0n404zI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
